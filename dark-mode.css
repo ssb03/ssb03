@@ -1,0 +1,20 @@
+body {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  header {
+    background-color: #222;
+  }
+  
+  .header-1 a.logo,
+  .header-2 nav a,
+  .header-2 .icons a {
+    color: #fff;
+  }
+  
+  #search-box {
+    background-color: #333;
+    color: #fff;
+  }
+  
